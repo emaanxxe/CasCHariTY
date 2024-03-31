@@ -44,15 +44,7 @@ En utilisant notre application, vous pourrez bénéficier des fonctionnalités s
 -Log Out.
 
 ### 👉 Pour stocker les données, j'ai créé une base de données CAS de 5 tables chacune avec ses propres attributs : 
-| admin         |
-
-| association   |
-
-| collaboration |
-
-| donateur      |
-
-| donations     |
+#### les tables sont : admin  ,association  ,collaboration  ,donateur  ,donations   
 
 
 ## Cette application vise à simplifier et à améliorer la gestion des dons pour notre club, en offrant des fonctionnalités adaptées aux besoins de chaque type d'utilisateur. Bien entendu, nous ne nous arrêtons pas là. Des améliorations futures et de nouvelles fonctionnalités sont prévues, inshaAllah.
