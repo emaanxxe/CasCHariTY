@@ -47,4 +47,4 @@ En utilisant notre application, vous pourrez bénéficier des fonctionnalités s
 les tables sont : admin  ,association  ,collaboration  ,donateur  ,donations   
 
 
-## Cette application vise à simplifier et à améliorer la gestion des dons pour notre club, en offrant des fonctionnalités adaptées aux besoins de chaque type d'utilisateur. Bien entendu, nous ne nous arrêtons pas là. Des améliorations futures et de nouvelles fonctionnalités sont prévues, inshaAllah.
+## Cette application vise à simplifier et à améliorer la gestion des dons pour notre club, en offrant des fonctionnalités adaptées aux besoins de chaque type d'utilisateur.  Et ce n'est que le début. Nous travaillons déjà sur de nouvelles améliorations et fonctionnalités à venir pour renforcer davantage notre impact et notre efficacité, inshaAllah.
