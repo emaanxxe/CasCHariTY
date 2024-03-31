@@ -23,8 +23,6 @@ En utilisant notre application, vous pourrez bénéficier des fonctionnalités s
 
 -Possibilité de faire de nouveaux dons.
 
--Personnalisez l'expérience avec un profil donateur.
-
 -Déconnexion.
 
 ### 👉 Pour les Associations:
@@ -33,8 +31,6 @@ En utilisant notre application, vous pourrez bénéficier des fonctionnalités s
 -Tableau de bord pour suivre les demandes de collaboration et voir le nombre total de collaborations.
 
 -Possibilité de soumettre de nouvelles demandes de collaborations.
-
--Personnalisez l'expérience avec un profil association.
 
 -Déconnexion.
 
