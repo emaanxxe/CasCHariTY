@@ -45,9 +45,13 @@ En utilisant notre application, vous pourrez bénéficier des fonctionnalités s
 
 ### 👉 Pour stocker les données, j'ai créé une base de données CAS de 5 tables chacune avec ses propres attributs : 
 | admin         |
+
 | association   |
+
 | collaboration |
+
 | donateur      |
+
 | donations     |
 
 
