@@ -13,6 +13,8 @@ En utilisant notre application, vous pourrez bénéficier des fonctionnalités s
 
 -Contactez-nous: Une liste des informations pour nous contacter.
 
+De plus, l'application offre une expérience personnalisée en fonction du type d'utilisateur:
+
 ### 👉 Pour les Donateurs:
 -Sign IN / Sign UP.
 
