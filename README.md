@@ -23,7 +23,7 @@ En utilisant notre application, vous pourrez bénéficier des fonctionnalités s
 
 -Possibilité de faire de nouveaux dons.
 
--Déconnexion.
+-Log Out.
 
 ### 👉 Pour les Associations:
 -Sign IN / Sign UP.
@@ -32,7 +32,7 @@ En utilisant notre application, vous pourrez bénéficier des fonctionnalités s
 
 -Possibilité de soumettre de nouvelles demandes de collaborations.
 
--Déconnexion.
+-Log Out.
 
 ### 👉 Pour l'Administrateur (CAS):
 -Sign IN
@@ -41,6 +41,14 @@ En utilisant notre application, vous pourrez bénéficier des fonctionnalités s
 
 -Accès aux détails des donateurs et des associations.
 
--Déconnexion.
+-Log Out.
+
+### 👉 Pour stocker les données, j'ai créé une base de données CAS de 5 tables chacune avec ses propres attributs : 
+| admin         |
+| association   |
+| collaboration |
+| donateur      |
+| donations     |
+
 
 ## Cette application vise à simplifier et à améliorer la gestion des dons pour notre club, en offrant des fonctionnalités adaptées aux besoins de chaque type d'utilisateur. Bien entendu, nous ne nous arrêtons pas là. Des améliorations futures et de nouvelles fonctionnalités sont prévues, inshaAllah.
